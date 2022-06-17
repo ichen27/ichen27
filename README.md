@@ -1,4 +1,5 @@
 <h1>👋 Hi, I’m @ichen27</h1>
+<img src = "https://niteowlcreative.com/new-york-ui-ux/nyc-banner-noc/![image](https://user-images.githubusercontent.com/107697782/174346288-a46c37ca-dd3c-4687-a8ca-5d1b2e3ab30d.png)">
 <h2> General Information</h2>
 <ul>
   <li> 👀 I’m currently a Senior at Vestal Senior High School</li>
