@@ -6,5 +6,5 @@
 <ul>
   <li>📖 Syracuse University | Class of 2027 | School of Engineering and Computer Science</li>
   <li>🌱 Java, C++, Python, Javascript, HTML, CSS</li>
-  <li> 📫 Reach me at: <a href = "ivan27cheng@gmail.com">ivan27chen@gmail.com</a></li>
+  <li> 📫 Reach me at: <a href = "ivanzhchen@gmail.com">ivan27chen@gmail.com</a></li>
 </ul>
